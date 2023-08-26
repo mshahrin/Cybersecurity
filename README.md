@@ -1,3 +1,3 @@
 # Cybersecurity
-My Cybersecurity Portfolio
-This project is initialize with Google Cybersecurity certificate
+My Cybersecurity Portfolio. 
+This project is initialized with Google Cybersecurity certificate
